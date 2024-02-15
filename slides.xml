@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters>
+    <preferences>
+        <global>
+            <basic_property movieWidth="450" movieHeight="350" html_title="Title" loadStyle="Pie" startAutoPlay="true" backgroundColor="0x000000" anvsoftMenu="false" hideAdobeMenu="false" photoDynamicShow="true" enableURL="true" transitionArray=""/>
+            <title_property photoTitleColor="0x000080" photoTitleSize="10" photoTitleFont="Verdana"/>
+            <music_property path="" stream="true" loop="true"/>
+            <photo_property topPadding="3" bottomPadding="28" leftPadding="2" rightPadding="108" photoBorder="true" photoBorderSize="1" photoBorderColor="0xfffbf0"/>
+            <button_property buttonColor="0x000080"/>
+            <properties enable="true" backgroundColor="0xffffff" backgroundAlpha="30" cssText="a:link{text-decoration: underline;} a:hover{color:#ff0000; text-decoration: none;} a:active{color:#0000ff;text-decoration: none;} .blue {color:#0000ff; font-size:15px; font-style:italic; text-decoration: underline;} .body{color:#ff5500;font-size:20px;}" align="bottom"/>
+        </global>
+        <thumbnail>
+            <basic_property thumbnailWidth="90" thumbnailHeight="60" showBorder="true" borderColor="0xffffff" align="right" rowCount="1" thumbnailSpacing="5"/>
+            <dropShadow_property shadowColor="0x666666" shadowTransparency="20" shadowSize="0" shadowHoverSize="2"/>
+        </thumbnail>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" transition="0" panzoom="1" URLTarget="0" phototime="3" url="" title="Tivoli Gardens Copenhagen"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" transition="0" panzoom="1" URLTarget="0" phototime="3" url="" title="CPH National Museum"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" transition="0" panzoom="1" URLTarget="0" phototime="3" url="" title="CPH City Museum"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" transition="0" panzoom="1" URLTarget="0" phototime="3" url="" title="Round Tower Copenhagen"/>
+        <slide jpegURL="thumbs/t_0005.jpg" d_URL="slides/p_0005.jpg" transition="0" panzoom="1" URLTarget="0" phototime="3" url="" title="Frilandsmuseet CPH"/>
+        <slide jpegURL="thumbs/t_0006.jpg" d_URL="slides/p_0006.jpg" transition="0" panzoom="1" URLTarget="0" phototime="3" url="" title="Christiansborg"/>
+        <slide jpegURL="thumbs/t_0007.jpg" d_URL="slides/p_0007.jpg" transition="0" panzoom="1" URLTarget="0" phototime="3" url="" title="Litlle Mermaid"/>
+        <slide jpegURL="thumbs/t_0008.jpg" d_URL="slides/p_0008.jpg" transition="0" panzoom="1" URLTarget="0" phototime="3" url="" title="Copenhagen Canal Boats"/>
+        <slide jpegURL="thumbs/t_0009.jpg" d_URL="slides/p_0009.jpg" transition="0" panzoom="1" URLTarget="0" phototime="3" url="" title="Christiania"/>
+    </album>
+</flash_parameters>

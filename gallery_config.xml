@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<XML>
+   <MenuList>
+   <galleryFolder>infinity_gallery/</galleryFolder>
+   <galleryColorScheme>grey</galleryColorScheme>
+   
+      <MenuItem>
+         <picnum>01</picnum>
+         <thumb>thumbs/Image00001.jpg</thumb>		 
+         <picture>Image00001.jpg</picture>
+		 <Caption>Copenhagen Canals</Caption>		 
+      </MenuItem>
+	  
+      <MenuItem>
+         <picnum>02</picnum>
+         <thumb>thumbs/Image00002.jpg</thumb>				 
+         <picture>Image00002.jpg</picture>
+		 <Caption>Tivoli Gardens</Caption>		 
+      </MenuItem>	  
+	  
+      <MenuItem>
+         <picnum>03</picnum>
+         <thumb>thumbs/Image00003.jpg</thumb>				 
+         <picture>Image00003.jpg</picture>
+		 <Caption>Tivoli Lakes</Caption>		 
+      </MenuItem>	  	  
+	  
+      <MenuItem>
+         <picnum>04</picnum>
+         <thumb>thumbs/Image00004.jpg</thumb>		 
+         <picture>Image00004.jpg</picture>
+		 <Caption>Tivoli Royal Parade</Caption>		 
+      </MenuItem>
+	  
+      <MenuItem>
+         <picnum>05</picnum>
+         <thumb>thumbs/Image00005.jpg</thumb>				 
+         <picture>Image00005.jpg</picture>
+		 <Caption>Spiral Church</Caption>		 
+      </MenuItem>	  
+	  
+      <MenuItem>
+         <picnum>06</picnum>
+         <thumb>thumbs/Image00006.jpg</thumb>				 
+         <picture>Image00006.jpg</picture>
+		 <Caption>Copenhagen Castles</Caption>		 
+      </MenuItem>	
+
+      <MenuItem>
+         <picnum>07</picnum>
+         <thumb>thumbs/Image00007.jpg</thumb>		 
+         <picture>Image00007.jpg</picture>
+		 <Caption>The Round Tower</Caption>		 
+      </MenuItem>
+	  
+      <MenuItem>
+         <picnum>08</picnum>
+         <thumb>thumbs/Image00008.jpg</thumb>				 
+         <picture>Image00008.jpg</picture>
+		 <Caption>The Royal Palace</Caption>		 
+      </MenuItem>	  
+	  
+      <MenuItem>
+         <picnum>09</picnum>
+         <thumb>thumbs/Image00009.jpg</thumb>				 
+         <picture>Image00009.jpg</picture>
+		 <Caption>Snake 1</Caption>		 
+      </MenuItem>	
+	  
+      <MenuItem>
+         <picnum>10</picnum>
+         <thumb>thumbs/Image00010.jpg</thumb>		 
+         <picture>Image00010.jpg</picture>
+		 <Caption>The Royal Crown</Caption>		 
+      </MenuItem>
+
+      <MenuItem>
+         <picnum>11</picnum>
+         <thumb>thumbs/Image00011.jpg</thumb>		 
+         <picture>Image00011.jpg</picture>
+		 <Caption>National Museum</Caption>		 
+      </MenuItem>
+	  
+      <MenuItem>
+         <picnum>12</picnum>
+         <thumb>thumbs/Image00012.jpg</thumb>				 
+         <picture>Image00012.jpg</picture>
+		 <Caption>Copenhagen's Little Mermaid</Caption>		 
+      </MenuItem>	  
+	  
+      <MenuItem>
+         <picnum>13</picnum>
+         <thumb>thumbs/Image00013.jpg</thumb>				 
+         <picture>Image00013.jpg</picture>
+		 <Caption>Copenhagen's Little Mermaid</Caption>		 
+      </MenuItem>	  	  
+	  
+      <MenuItem>
+         <picnum>14</picnum>
+         <thumb>thumbs/Image00014.jpg</thumb>		 
+         <picture>Image00014.jpg</picture>
+		 <Caption>Tivoli's Taj Mahal</Caption>		 
+      </MenuItem>
+	  
+      <MenuItem>
+         <picnum>15</picnum>
+         <thumb>thumbs/Image00015.jpg</thumb>				 
+         <picture>Image00015.jpg</picture>
+		 <Caption>Copenhagen's City Museum</Caption>		 
+      </MenuItem>	  
+	  
+      <MenuItem>
+         <picnum>16</picnum>
+         <thumb>thumbs/Image00016.jpg</thumb>				 
+         <picture>Image00016.jpg</picture>
+		 <Caption>Royal Parade</Caption>		 
+      </MenuItem>	
+
+      <MenuItem>
+         <picnum>17</picnum>
+         <thumb>thumbs/Image00017.jpg</thumb>		 
+         <picture>Image00017.jpg</picture>
+		 <Caption>The Black Diamond/Royal Library</Caption>		 
+      </MenuItem>
+	  
+      <MenuItem>
+         <picnum>18</picnum>
+         <thumb>thumbs/Image00018.jpg</thumb>				 
+         <picture>Image00018.jpg</picture>
+		 <Caption>Tivoli</Caption>		 
+      </MenuItem>	  
+	  
+      <MenuItem>
+         <picnum>19</picnum>
+         <thumb>thumbs/Image00019.jpg</thumb>				 
+         <picture>Image00019.jpg</picture>
+		 <Caption>Kronborg Castle</Caption>		 
+      </MenuItem>	
+	  
+      <MenuItem>
+         <picnum>20</picnum>
+         <thumb>thumbs/Image00020.jpg</thumb>		 
+         <picture>Image00020.jpg</picture>
+		 <Caption>Christiania</Caption>		 
+      </MenuItem>
+	  	  	  
+   </MenuList>
+</XML>
